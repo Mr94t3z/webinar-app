@@ -41,7 +41,7 @@ Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tampilan%20Data%20Master-orange)
 
-Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
+Tampilan **Data Mahasiswa** pada *Menu: `Data Master`*.
 
 ![3](/doc/3.png)
 
@@ -53,7 +53,7 @@ Tampilan `Detail` pada data mahasiswa.
 
 ![Tambah_Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Mahasiswa-orange)
 
-Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
+Tampilan menambahkan data `Mahasiswa`.
 
 ![4](/doc/4.png)
 
@@ -71,7 +71,7 @@ Tampilan manambahkan data `Seminar`.
 
 ![Data_Tiket](https://img.shields.io/badge/WebinarApp-Data%20Tiket-orange)
 
-Tampilan **Data Seminar** pada *Menu: `Data Tiket`*.
+Tampilan **Data Tiket** pada *Menu: `Data Seminar`*.
 
 ![4_2](/doc/4_2.png)
 
@@ -83,9 +83,21 @@ Tampilan menambahkan data `Tiket`.
 
 ![Data Pembicara](https://img.shields.io/badge/WebinarApp-Data%20Pembicara-orange)
 
-Tampilan **Data Seminar** pada *Menu: `Data Pembicara`*.
+Tampilan **Data Pembicara** pada *Menu: `Data Seminar`*.
 
 ![4_4](/doc/4_4.png)
+
+![Tambah_Data Pembicara](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Pembicara-orange)
+
+Tampilan menambahkan data `Pembicara`.
+
+![4_5](/doc/4_5.png)
+
+![Tambah_Data Pembicara](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Pembicara-orange)
+
+Tampilan menambahkan data `Pembicara`.
+
+![4_6](/doc/4_6.png)
 
 
 # Social Media
