@@ -1,5 +1,5 @@
 # Kelompok 8 - IF C
-![Kelompok](https://img.shields.io/badge/WebinarApp-Kelompok-blue)
+![Kelompok](https://img.shields.io/badge/WebinarApp-Kelompok%208%20IF%20C-blue)
 <h3> Anggota Kelompok: </h3>
 
 - Irvan Falasifa		(1197050056)
