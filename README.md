@@ -62,7 +62,13 @@ Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
 y'all can find my `social media` here:
- 
+
+<p align='center'>
+ <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr94t3z&show_icons=true&count_private=true&theme=dark" width="350">
+ </a>
+</p>
+
 <p align='center'>
  
  <a href="https://www.facebook.com/mr.94t3z">
@@ -81,10 +87,4 @@ y'all can find my `social media` here:
   <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
  </a>&nbsp;&nbsp;
   
-</p>
-
-<p align='center'>
- <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr94t3z&show_icons=true&count_private=true&theme=dark" width="350">
- </a>
 </p>
