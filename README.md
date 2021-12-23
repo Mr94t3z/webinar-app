@@ -46,7 +46,7 @@ y'all can find my `social media` here:
 
 ### Layout
 
-Tampilan `Login`, dimana user harus memasukkan username dan password.
+Tampilan `Login`, dimana user harus memasukkan `username` dan `password` sebagai `Administrator`.
 
 #### Username
 
