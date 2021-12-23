@@ -39,7 +39,7 @@ Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![2](/doc/2.png)
 
-![Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+![Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tampilan%20Data%20Master-orange)
 
 Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
 
@@ -57,15 +57,15 @@ Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
 
 ![4](/doc/4.png)
 
-Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
+![Tambah_Data_Seminar](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Seminar-orange)
 
-![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+Tampilan manambahkan data `Seminar`.
 
 ![4_](/doc/4_1.png)
 
-Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
-
 ![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+
+Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![5](/doc/5.png)
 
