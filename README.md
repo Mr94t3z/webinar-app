@@ -30,8 +30,8 @@ y'all can find my `social media` here:
 </p>
 
 # Kelompok 8 - IF C
-![Views](https://img.shields.io/badge/WebinarApp-Kelompok-blue)
-
+![Kelompok](https://img.shields.io/badge/WebinarApp-Kelompok-blue)
+<h3> Anggota Kelompok: </h3>
 - Irvan Falasifa		(1197050056)
 - Muhammad Taopik (1197050081)
 
