@@ -45,11 +45,11 @@ Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
 
 ![3](/doc/3.png)
 
-Tampilan `Data Master` pada **Menu** `Data Mahasiswa`.
+Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
 
-![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+![Tambah_Data](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Mahasiswa-orange)
 
-![3](/doc/3.png)
+![3_1](/doc/3_1.png)
 
 Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
