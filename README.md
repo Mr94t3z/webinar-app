@@ -45,11 +45,23 @@ Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
 
 ![3](/doc/3.png)
 
-Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
+Tampilan `Detail` pada data mahasiswa.
 
-![Tambah_Data](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Mahasiswa-orange)
+![Detail_Mahasiswa](https://img.shields.io/badge/WebinarApp-Detail%20Data%20Mahasiswa-orange)
 
 ![3_1](/doc/3_1.png)
+
+Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
+
+![Tambah_Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Mahasiswa-orange)
+
+![3_2](/doc/3_2.png)
+
+Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
+
+![Tambah_Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Mahasiswa-orange)
+
+![3_3](/doc/3_3.png)
 
 Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
