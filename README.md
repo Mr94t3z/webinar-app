@@ -29,7 +29,13 @@ y'all can find my `social media` here:
  </a>
 </p>
 
-# Input Nilai Mahasiswa Dengan CodeIgniter 4
+# Kelompok 8 - IF C
+![Views](https://img.shields.io/badge/WebinarApp-Kelompok-blue)
+
+- Irvan Falasifa		(1197050056)
+- Muhammad Taopik (1197050081)
+
+# Dokumentasi Aplikasi Pendaftaran Webinar (Seminar)
 ![Views](https://img.shields.io/badge/CodeIgniter-Views-blue)
 
 <h3>1. Data Nilai Mahasiswa</h3>
