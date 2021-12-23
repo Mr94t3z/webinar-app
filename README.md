@@ -50,7 +50,7 @@ y'all can find my `social media` here:
 
 ![Login](https://img.shields.io/badge/WebinarApp-Tampilan%20Login-orange)
 
-![1](doc/1.PNG)
+![1](/doc/1.PNG)
 
 <h3>2. Input Nilai Mahasiswa</h3>
 
