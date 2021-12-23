@@ -93,12 +93,17 @@ Tampilan menambahkan data `Pembicara`.
 
 ![4_5](/doc/4_5.png)
 
-![Tambah_Data Pembicara](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Pembicara-orange)
+![Data_Sponsor](https://img.shields.io/badge/WebinarApp-Data%20Sponsor-orange)
 
-Tampilan menambahkan data `Pembicara`.
+Tampilan **Data Sponsor** pada *Menu: `Data Seminar`*.
 
 ![4_6](/doc/4_6.png)
 
+![Tambah_Data Sponsor](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Sponsor-orange)
+
+Tampilan menambahkan data `Sponsor`.
+
+![4_7](/doc/4_7.png)
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
