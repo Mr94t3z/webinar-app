@@ -46,11 +46,11 @@ y'all can find my `social media` here:
 
 ### Layout
 
-<h3>1. Data Nilai Mahasiswa</h3>
+- Tampilan `Login`.
 
-![Data_Nilai](https://img.shields.io/badge/CodeIgniter-Data%20Nilai%20Mahasiswa-orange)
+![Login](https://img.shields.io/badge/WebinarApp-Tampilan%20Login-orange)
 
-![1](1.PNG)
+![1](doc/1.PNG)
 
 <h3>2. Input Nilai Mahasiswa</h3>
 
