@@ -44,7 +44,7 @@ y'all can find my `social media` here:
 - Codeigniter 3
 - Bootstraps
 
-## Layout
+### Layout
 
 <h3>1. Data Nilai Mahasiswa</h3>
 
