@@ -15,6 +15,8 @@
 
 ### Layout
 
+![Login](https://img.shields.io/badge/WebinarApp-Tampilan%20Login-orange)
+
 Tampilan `Login` merupakan dimana user harus memasukkan `username` dan `password` sebagai *Administrator*.
 
 #### Username
@@ -29,31 +31,29 @@ nur.lukman@gmail.com
 12345678
 ```
 
-![Login](https://img.shields.io/badge/WebinarApp-Tampilan%20Login-orange)
-
 ![1](/doc/1.png)
-
-Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
-![2](/doc/2.png)
+Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
-Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
+![2](/doc/2.png)
 
 ![Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
-![3](/doc/3.png)
+Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
 
-Tampilan `Detail` pada data mahasiswa.
+![3](/doc/3.png)
 
 ![Detail_Mahasiswa](https://img.shields.io/badge/WebinarApp-Detail%20Data%20Mahasiswa-orange)
 
+Tampilan `Detail` pada data mahasiswa.
+
 ![3_1](/doc/3_1.png)
 
-Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
-
 ![Tambah_Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Mahasiswa-orange)
+
+Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
 
 ![4](/doc/4.png)
 
