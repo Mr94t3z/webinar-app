@@ -109,7 +109,7 @@ Tampilan menambahkan data `Sponsor`.
 
 Tampilan `Detail` pada data seminar.
 
-![4_8](/doc/4_8.png)
+![5_1](/doc/5_1.png)
 
 ![Pendaftaran_Seminar](https://img.shields.io/badge/WebinarApp-Data%20Pendaftaran%20Seminar-orange)
 
@@ -127,7 +127,7 @@ Tampilan **Data Pendaftaran Seminar**.
 
 Tampilan `Formulir` pendaftaran seminar.
 
-![4_7](/doc/4_7.png)
+![4_8](/doc/4_8.png)
 
 
 # Social Media
