@@ -39,6 +39,24 @@ Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![2](/doc/2.png)
 
+Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
+
+![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+
+![3](/doc/3.png)
+
+Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
+
+![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+
+![4](/doc/4.png)
+
+Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
+
+![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
+
+![5](/doc/5.png)
+
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
