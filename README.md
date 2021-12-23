@@ -5,7 +5,7 @@
 - Irvan Falasifa		(1197050056)
 - Muhammad Taopik (1197050081)
 
-# Dokumentasi Aplikasi Pendaftaran Webinar (Seminar)
+# Dokumentasi
 ![Views](https://img.shields.io/badge/WebinarApp-Dokumentasi-blue)
 
 ### Tools
