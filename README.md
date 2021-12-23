@@ -56,4 +56,4 @@ Tampilan `Dashboard`.
 
 ![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
-![2](/doc/.png)
+![2](/doc/2.png)
