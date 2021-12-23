@@ -105,6 +105,31 @@ Tampilan menambahkan data `Sponsor`.
 
 ![4_7](/doc/4_7.png)
 
+![Detail_Data_Seminar](https://img.shields.io/badge/WebinarApp-Detail%20Data%20Seminar-orange)
+
+Tampilan `Detail` pada data seminar.
+
+![4_8](/doc/4_8.png)
+
+![Pendaftaran_Seminar](https://img.shields.io/badge/WebinarApp-Data%20Pendaftaran%20Seminar-orange)
+
+Tampilan **Data Seminar**, disini kita bisa memilih acara seminar yang akan diikuti.
+
+![6](/doc/6.png)
+
+![Pendaftaran_Seminar](https://img.shields.io/badge/WebinarApp-Data%20Pendaftaran%20Seminar-orange)
+
+Tampilan **Data Pendaftaran Seminar**.
+
+![6_1](/doc/6_1.png)
+
+![Formulir_Pendaftaran_Seminar](https://img.shields.io/badge/WebinarApp-Formulir%20Pendaftaran%20Seminar-orange)
+
+Tampilan `Formulir` pendaftaran seminar.
+
+![4_7](/doc/4_7.png)
+
+
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
