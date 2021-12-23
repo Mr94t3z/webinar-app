@@ -57,11 +57,23 @@ Tampilan menambahkan data pada *Menu: `Data Mahasiswa`*.
 
 ![4](/doc/4.png)
 
+![Data_Seminar](https://img.shields.io/badge/WebinarApp-Data%20Seminar-orange)
+
+Tampilan  **Data Seminar** pada *Menu: `Data Seminar`*.
+
+![5](/doc/5.png)
+
 ![Tambah_Data_Seminar](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Seminar-orange)
 
 Tampilan manambahkan data `Seminar`.
 
-![4_](/doc/4_1.png)
+![4_1](/doc/4_1.png)
+
+![Tambah_Data_Seminar](https://img.shields.io/badge/WebinarApp-Tambah%20Data%20Seminar-orange)
+
+Tampilan manambahkan data `Seminar`.
+
+![4_2](/doc/4_2.png)
 
 ![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
