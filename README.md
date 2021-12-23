@@ -46,14 +46,14 @@ y'all can find my `social media` here:
 
 ### Layout
 
-- Tampilan `Login`.
+Tampilan `Login`.
 
 ![Login](https://img.shields.io/badge/WebinarApp-Tampilan%20Login-orange)
 
 ![1](/doc/1.png)
 
-<h3>2. Input Nilai Mahasiswa</h3>
+Tampilan `Dashboard`.
 
-![Input_Nilai](https://img.shields.io/badge/CodeIgniter-Input%20Nilai%20Mahasiswa-orange)
+![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
-![2](2.PNG)
+![2](/doc/.png)
