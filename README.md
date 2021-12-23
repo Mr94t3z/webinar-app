@@ -147,15 +147,20 @@ Tampilan **Scan QR Code** pada *Menu: `Data QR Code`* ini bisa melakukan absensi
 
 ![7_1](/doc/7_1.png)
 
-![Laporan_Presensi_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Presensi%20Seminar-orange)
+![Laporan_Pendaftaran_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Presensi%20Seminar-orange)
 
-Tampilan **Laporan Pendaftaran** ini untuk melihat peserta yang melakukan presensi kehadiran atau tidak.
+Tampilan **Laporan Pendaftaran**, silahkan pilih acara seminar mana saja yang akan dilihat data presensi-nya.
+![7_2](/doc/7_2.png)
+
+![Data_Presensi_Seminar](https://img.shields.io/badge/WebinarApp-Data%20Presensi%20Seminar-orange)
+
+Tampilan **Laporan Presensi Seminar** ini untuk melihat data peserta yang melakukan presensi kehadiran atau tidak.
 
 ![8](/doc/8.png)
 
 ![Laporan_Presensi_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Presensi%20Seminar-orange)
 
-Tampilan **Rekap Kehadiran Peserta** merupakan hasil rekap dari cetak dalam bentuk `PDF`.
+Tampilan **Rekap Kehadiran Peserta** merupakan hasil laporan rekap presensi dalam bentuk `PDF`.
 
 ![9](/doc/9.png)
 
