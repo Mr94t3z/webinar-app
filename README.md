@@ -37,7 +37,14 @@ y'all can find my `social media` here:
 - Muhammad Taopik (1197050081)
 
 # Dokumentasi Aplikasi Pendaftaran Webinar (Seminar)
-![Views](https://img.shields.io/badge/CodeIgniter-Views-blue)
+![Views](https://img.shields.io/badge/WebinarApp-Dokumentasi-blue)
+
+### Tools
+
+- Codeigniter 3
+- Bootstraps
+
+## Layout
 
 <h3>1. Data Nilai Mahasiswa</h3>
 
