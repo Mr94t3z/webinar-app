@@ -160,7 +160,7 @@ Tampilan **Laporan Presensi Seminar** ini untuk melihat data peserta yang melaku
 
 ![Laporan_Presensi_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Presensi%20Seminar-orange)
 
-Tampilan **Rekap Kehadiran Peserta** merupakan hasil laporan rekap presensi dalam bentuk `PDF`.
+Tampilan **Rekap Kehadiran Peserta** merupakan hasil yang dicetak dalam bentuk `PDF`.
 
 ![9](/doc/9.png)
 
