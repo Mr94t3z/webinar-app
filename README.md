@@ -53,6 +53,7 @@ Tampilan `Login`, dimana user harus memasukkan `username` dan `password` sebagai
 ```
 nur.lukman@gmail.com
 ```
+
 #### Password
 
 ```
@@ -63,7 +64,7 @@ nur.lukman@gmail.com
 
 ![1](/doc/1.png)
 
-Tampilan `Dashboard`.
+Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![Dashboard](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
