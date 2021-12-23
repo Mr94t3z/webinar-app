@@ -46,7 +46,19 @@ y'all can find my `social media` here:
 
 ### Layout
 
-Tampilan `Login`.
+Tampilan `Login`, dimana user harus memasukkan username dan password.
+
+#### Username
+
+```
+nur.lukman@gmail.com
+```
+
+#### Password
+
+```
+12345678
+```
 
 ![Login](https://img.shields.io/badge/WebinarApp-Tampilan%20Login-orange)
 
