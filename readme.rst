@@ -1,70 +1,45 @@
-###################
-What is CodeIgniter
-###################
+# Social Media
+![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+y'all can find my `social media` here:
+ 
+<p align='center'>
+ 
+ <a href="https://www.facebook.com/mr.94t3z">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />        
+ </a>&nbsp;&nbsp;
+ 
+ <a href="https://www.instagram.com/m.taopik_/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+ </a>&nbsp;&nbsp;
+ 
+ <a href="https://www.linkedin.com/in/muhamad-taopik-8b0746174">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ 
+ <a href="https://twitter.com/mr94t3z">
+  <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
+ </a>&nbsp;&nbsp;
+  
+</p>
 
-*******************
-Release Information
-*******************
+<p align='center'>
+ <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr94t3z&show_icons=true&count_private=true&theme=dark" width="350">
+ </a>
+</p>
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+# Input Nilai Mahasiswa Dengan CodeIgniter 4
+![Views](https://img.shields.io/badge/CodeIgniter-Views-blue)
 
-**************************
-Changelog and New Features
-**************************
+<h3>1. Data Nilai Mahasiswa</h3>
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+![Data_Nilai](https://img.shields.io/badge/CodeIgniter-Data%20Nilai%20Mahasiswa-orange)
 
-*******************
-Server Requirements
-*******************
+![1](1.PNG)
 
-PHP version 5.6 or newer is recommended.
+<h3>2. Input Nilai Mahasiswa</h3>
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+![Input_Nilai](https://img.shields.io/badge/CodeIgniter-Input%20Nilai%20Mahasiswa-orange)
 
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+![2](2.PNG)
