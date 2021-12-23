@@ -39,7 +39,7 @@ Tampilan `Dashboard` merupakan halaman pertama kali `Admin` masuk.
 
 ![2](/doc/2.png)
 
-Tampilan `Data Master` pada **Menu** `Data Mahasiswa`.
+Tampilan **Data Master** pada *Menu: `Data Mahasiswa`*.
 
 ![Data_Mahasiswa](https://img.shields.io/badge/WebinarApp-Tampilan%20Dashboard-orange)
 
