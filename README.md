@@ -129,6 +129,35 @@ Tampilan `Formulir` pendaftaran seminar.
 
 ![4_8](/doc/4_8.png)
 
+![Laporan_Pendaftaran_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Pendaftaran%20Seminar-orange)
+
+Tampilan `Laporan` peserta yang melakukan pendaftaran pada acara seminar.
+
+![6_2](/doc/6_2.png)
+
+![Data_QR_Code](https://img.shields.io/badge/WebinarApp-Data%20QR%20Code-orange)
+
+Tampilan **Ambil QR Code** pada *Menu: `Data QR Code`* untuk menampilkan `QR Code` setelah nama mahasiswa di-inputkan.
+
+![7](/doc/7.png)
+
+![Scan_QR_Code](https://img.shields.io/badge/WebinarApp-Scan%20QR%20Code-orange)
+
+Tampilan **Scan QR Code** pada *Menu: `Data QR Code`* ini bisa melakukan absensi menggunakan fitur Scan QR.
+
+![7_1](/doc/7_1.png)
+
+![Laporan_Presensi_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Presensi%20Seminar-orange)
+
+Tampilan **Laporan Pendaftaran** ini untuk melihat peserta yang melakukan presensi kehadiran atau tidak.
+
+![8](/doc/8.png)
+
+![Laporan_Presensi_Seminar](https://img.shields.io/badge/WebinarApp-Laporan%20Presensi%20Seminar-orange)
+
+Tampilan **Rekap Kehadiran Peserta** merupakan hasil rekap dari cetak dalam bentuk `PDF`.
+
+![9](/doc/9.png)
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
